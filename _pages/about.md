@@ -113,6 +113,11 @@ I am currently a Ph.D. student (Sep. 2024 - Jun. 2028, expected) in the School o
     <div class="pub-venue"><span class="pub-badge">NeurIPS 2024 Spotlight</span> Advances in Neural Information Processing Systems, 2024</div>
   </li>
   <li class="publication-item">
+    <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=EKto99gAAAAJ&citation_for_view=EKto99gAAAAJ:LkGwnXOMwfcC">FRISM: Fine-Grained Reasoning Injection via Subspace-Level Model Merging for Vision-Language Models</a></div>
+    <div class="pub-authors"><strong><u>C Huang</u></strong>, P Ye, X Tan, J Mu, S Zheng, L Shen, T Chen</div>
+    <div class="pub-venue"><span class="pub-badge">ICML 2026</span> arXiv preprint arXiv:2601.21187</div>
+  </li>
+  <li class="publication-item">
     <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=EKto99gAAAAJ&citation_for_view=EKto99gAAAAJ:Tyk-4Ss8FVUC">Dynamic model merging with mixture of weights</a></div>
     <div class="pub-authors">P Ye, <strong><u>C Huang</u></strong>, M Shen, T Chen, Y Huang, W Ouyang</div>
     <div class="pub-venue"><span class="pub-badge">TCSVT 2025</span> IEEE Transactions on Circuits and Systems for Video Technology, 2025</div>
@@ -131,11 +136,6 @@ I am currently a Ph.D. student (Sep. 2024 - Jun. 2028, expected) in the School o
     <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=EKto99gAAAAJ&citation_for_view=EKto99gAAAAJ:roLk4NBRz8UC">Breaking the compression ceiling: Data-free pipeline for ultra-efficient delta compression</a></div>
     <div class="pub-authors">X Wang, P Ye, <strong><u>C Huang</u></strong>, S Zheng, B Zhang, L Bai, W Ouyang, T Chen</div>
     <div class="pub-venue"><span class="pub-badge">NeurIPS 2025</span> Advances in Neural Information Processing Systems 38, 23167-23195</div>
-  </li>
-  <li class="publication-item">
-    <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=EKto99gAAAAJ&citation_for_view=EKto99gAAAAJ:LkGwnXOMwfcC">FRISM: Fine-Grained Reasoning Injection via Subspace-Level Model Merging for Vision-Language Models</a></div>
-    <div class="pub-authors"><strong><u>C Huang</u></strong>, P Ye, X Tan, J Mu, S Zheng, L Shen, T Chen</div>
-    <div class="pub-venue"><span class="pub-badge">ICML 2026</span> arXiv preprint arXiv:2601.21187</div>
   </li>
 </ol>
 
