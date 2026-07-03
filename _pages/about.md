@@ -269,18 +269,32 @@ I am currently a Ph.D. student (Sep. 2024 - Jun. 2028, expected) in the School o
 </ul>
 
 <div class="section-card" markdown="1">
-# 🏆 Honors and Rewards
-<div class="venue-tags">
-	<li><p style='text-align:justify; margin:4px 0'>2023 National Scholarship.</p></li>
+
+# Honors and Awards
+
+<div style="margin-top: 0.8rem; margin-bottom: 2.2rem;">
+  <div style="padding: 1rem 1.2rem; border-left: 4px solid #4f8cff; background: #f8fafc; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.04);">
+    <div style="font-weight: 600; font-size: 1.02rem; margin-bottom: 0.25rem;">
+      National Scholarship
+    </div>
+    <div style="color: #666; font-size: 0.95rem;">
+      2023
+    </div>
+  </div>
 </div>
 
-# 📝 Academic Services
+# Academic Services
 
-<div class="venue-tags">
-  Serving as a reviewer for:
-  <span class="venue-tag">NeurIPS</span>
-  <span class="venue-tag">ECCV</span>
-  <span class="venue-tag">CVPR</span>
-  <span class="venue-tag">ICML</span>
-  <span class="venue-tag">T-CSVT</span>
+<div style="margin-top: 0.8rem; margin-bottom: 2.2rem;">
+  <p style="margin-bottom: 0.7rem;">
+    Serving as a reviewer for:
+  </p>
+
+  <div style="display: flex; flex-wrap: wrap; gap: 0.55rem 0.65rem;">
+    <span style="padding: 0.35rem 0.75rem; background: #f3f6fb; border: 1px solid #e3e8f0; border-radius: 999px;">NeurIPS</span>
+    <span style="padding: 0.35rem 0.75rem; background: #f3f6fb; border: 1px solid #e3e8f0; border-radius: 999px;">ECCV</span>
+    <span style="padding: 0.35rem 0.75rem; background: #f3f6fb; border: 1px solid #e3e8f0; border-radius: 999px;">CVPR</span>
+    <span style="padding: 0.35rem 0.75rem; background: #f3f6fb; border: 1px solid #e3e8f0; border-radius: 999px;">ICML</span>
+    <span style="padding: 0.35rem 0.75rem; background: #f3f6fb; border: 1px solid #e3e8f0; border-radius: 999px;">IEEE T-CSVT</span>
+  </div>
 </div>
