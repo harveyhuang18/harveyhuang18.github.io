@@ -235,7 +235,7 @@ I am currently a Ph.D. student (Sep. 2024 - Jun. 2028, expected) in the School o
 
 <ul class="timeline">
   <li class="tl-current">
-    <span class="tl-period tl-now">2022.09 — Present</span>
+    <span class="tl-period tl-now">2024.09 — Present</span>
     <div class="tl-body">Ph.D. Candidate · School of Information Science and Technology</div>
     <div class="tl-sub"><a href="https://www.fudan.edu.cn/">Fudan University</a></div>
     <div class="tl-sub">Supervised by: Prof.<a href="https://scholar.google.com/citations?user=w3OoFL0AAAAJ&hl=zh-CN">Tao Chen</a></div>
