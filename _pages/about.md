@@ -270,7 +270,7 @@ I am currently a Ph.D. student (Sep. 2024 - Jun. 2028, expected) in the School o
 
 <div class="section-card" markdown="1">
 
-# Honors and Awards
+# 🏆 Honors and Awards
 
 <div style="margin-top: 0.8rem; margin-bottom: 2.2rem;">
   <div style="padding: 1rem 1.2rem; border-left: 4px solid #4f8cff; background: #f8fafc; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.04);">
@@ -283,7 +283,7 @@ I am currently a Ph.D. student (Sep. 2024 - Jun. 2028, expected) in the School o
   </div>
 </div>
 
-# Academic Services
+# 📝 Academic Services
 
 <div style="margin-top: 0.8rem; margin-bottom: 2.2rem;">
   <p style="margin-bottom: 0.7rem;">
