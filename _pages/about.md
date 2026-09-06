@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
+
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -23,6 +25,8 @@ redirect_from:
 I am currently a Ph.D. student (Sep. 2024 - Jun. 2028, expected) in the School of Information Science and Technology, Fudan University, supervised by Prof. <a href="https://eetchen.github.io/">Tao Chen</a>. I am also fortunate to work closely with Dr. Peng Ye from Shanghai AI Lab. Before this, I obtained my Master's and Bachelor's degrees from the School of Electronic Science and Engineering, Southeast University, supervised by Prof. Yuning Zhang. I’m currently working in the fields of vision-language models, on-policy distillation, multi-modal reasoning, and model merging.
 </div>
 
+
+
 <div style="margin-top: 18px; background: #f4f7ff; border: 1px solid #d8e3fb; border-radius: 12px; padding: 14px 18px;">
   <div style="font-size: 0.82em; font-weight: 700; color: #1a73e8; text-transform: uppercase; letter-spacing: 0.6px; margin-bottom: 10px;">Research Interests</div>
   <div class="research-tags" style="margin-top: 0;">
@@ -33,13 +37,17 @@ I am currently a Ph.D. student (Sep. 2024 - Jun. 2028, expected) in the School o
   </div>
 </div>
 
+
+
 </div>
 
 <div class="section-card" markdown="1">
-
 # 🔥 News
 
+
+
 <ul style="margin:0; padding-left:1.2em;">
+  <li><p style='text-align:justify; margin:4px 0'><i>2026.8</i>: &nbsp;🎉🎉 DO-Merging is accepted by <span style="color:#c0392b; font-weight:600;">EMNLP 2026 Findings</span>.</p></li>
   <li><p style='text-align:justify; margin:4px 0'><i>2026.5</i>: &nbsp;🎉🎉 FRISM is accepted by <span style="color:#c0392b; font-weight:600;">ICML 2026</span>.</p></li>
   <li><p style='text-align:justify; margin:4px 0'><i>2026.1</i>: &nbsp;🎉🎉 Sci-Verifier is accepted by <span style="color:#c0392b; font-weight:600;">ICLR 2026</span>.</p></li>
   <li><p style='text-align:justify; margin:4px 0'><i>2025.9</i>: &nbsp;🎉🎉 UltraDelta is accepted by <span style="color:#c0392b; font-weight:600;">NeurIPS 2025</span>.</p></li>
@@ -47,9 +55,6 @@ I am currently a Ph.D. student (Sep. 2024 - Jun. 2028, expected) in the School o
   <li><p style='text-align:justify; margin:4px 0'><i>2025.2</i>: &nbsp;🎉🎉 MoW-Merging is accepted by <span style="color:#c0392b; font-weight:600;">IEEE TCSVT</span>.</p></li>
   <li><p style='text-align:justify; margin:4px 0'><i>2024.9</i>: &nbsp;🎉🎉 EMR-Merging is accepted by <span style="color:#c0392b; font-weight:600;">NeurIPS 2024 Spotlight</span>.</p></li>
 </ul>
-
-
-
 
 
 
@@ -61,6 +66,8 @@ I am currently a Ph.D. student (Sep. 2024 - Jun. 2028, expected) in the School o
   padding: 0;
   list-style: none;
 }
+
+
 
 .publication-item {
   border-bottom: 1px solid #efefef;
@@ -113,7 +120,7 @@ I am currently a Ph.D. student (Sep. 2024 - Jun. 2028, expected) in the School o
     <div class="pub-venue"><span class="pub-badge">NeurIPS 2024 Spotlight</span> Advances in Neural Information Processing Systems, 2024</div>
   </li>
   <li class="publication-item">
-    <div class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=EKto99gAAAAJ&citation_for_view=EKto99gAAAAJ:LkGwnXOMwfcC">FRISM: Fine-Grained Reasoning Injection via Subspace-Level Model Merging for Vision-Language Models</a></div>
+    <div class="pub-title"><a href="https://openreview.net/forum?id=F13K6NNeAz">FRISM: Fine-Grained Reasoning Injection via Subspace-Level Model Merging for Vision-Language Models</a></div>
     <div class="pub-authors"><strong><u>C Huang</u></strong>, P Ye, X Tan, J Mu, S Zheng, L Shen, T Chen</div>
     <div class="pub-venue"><span class="pub-badge">ICML 2026</span> arXiv preprint arXiv:2601.21187</div>
   </li>
@@ -137,11 +144,19 @@ I am currently a Ph.D. student (Sep. 2024 - Jun. 2028, expected) in the School o
     <div class="pub-authors">X Wang, P Ye, <strong><u>C Huang</u></strong>, S Zheng, B Zhang, L Bai, W Ouyang, T Chen</div>
     <div class="pub-venue"><span class="pub-badge">NeurIPS 2025</span> Advances in Neural Information Processing Systems 38, 23167-23195</div>
   </li>
+  <li class="publication-item">
+    <div class="pub-title"><a href="https://arxiv.org/pdf/2505.15875">Decouple and Orthogonalize: A Data-Free Framework for LoRA Merging</a></div>
+    <div class="pub-authors">Shenghe Zheng, Hongzhi Wang, <strong><u>C Huang</u></strong>, Xiaohui Wang, Tao Chen, Jiayuan Fan, Shuyue Hu, Peng Ye</div>
+    <div class="pub-venue"><span class="pub-badge">EMNLP 2026 Findings</span> arxiv preprint 2505.15875</div>
+  </li>
 </ol>
+
+
 
 </div><!-- end section-card: publications -->
 
 <!-- # 🎖 Honors and Awards
+
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
@@ -152,6 +167,8 @@ I am currently a Ph.D. student (Sep. 2024 - Jun. 2028, expected) in the School o
   list-style: none;
   margin: 16px 0 0 0;
 }
+
+
 
 .timeline::before {
   content: '';
@@ -231,32 +248,39 @@ I am currently a Ph.D. student (Sep. 2024 - Jun. 2028, expected) in the School o
 
 <div class="section-card" markdown="1">
 
+
+
 # 📖 Educations
 
 <ul class="timeline">
   <li class="tl-current">
     <span class="tl-period tl-now">2024.09 — Present</span>
-    <div class="tl-body">Ph.D. Candidate · School of Information Science and Technology</div>
+    <div class="tl-body">Ph.D. Candidate · College of Future Information and Technology</div>
     <div class="tl-sub"><a href="https://www.fudan.edu.cn/">Fudan University</a></div>
     <div class="tl-sub">Supervised by: Prof.<a href="https://scholar.google.com/citations?user=w3OoFL0AAAAJ&hl=zh-CN">Tao Chen</a></div>
   </li>
   <li>
     <span class="tl-period">2021.09 — 2024.06</span>
-    <div class="tl-body">Master of Electronic Science and Technology</div>
+    <div class="tl-body">Master of Electronic Science and Technology · School of Electronic Science and Engineering</div>
     <div class="tl-sub"><a href="https://www.seu.edu.cn/">Southeast University</a></div>
     <div class="tl-sub">Supervised by: Prof.<a href="https://scholar.google.com/citations?user=0jajoYwAAAAJ&hl=zh-CN">Yuning Zhang</a></div>
   </li>
   <li>
     <span class="tl-period">2017.09 — 2021.06</span>
-    <div class="tl-body">Bachelor of Electronic Science and Technology</div>
+    <div class="tl-body">Bachelor of Electronic Science and Technology · School of Electronic Science and Engineering</div>
     <div class="tl-sub"><a href="https://www.seu.edu.cn/">Southeast University</a></div>
   </li>
 </ul>
 
 
+
+
+
 </div>
 
 <div class="section-card" markdown="1">
+
+
 
 # 💬 Invited Talks
 
@@ -268,7 +292,11 @@ I am currently a Ph.D. student (Sep. 2024 - Jun. 2028, expected) in the School o
   </li>
 </ul>
 
+
+
 <div class="section-card" markdown="1">
+
+
 
 # 🏆 Honors and Awards
 
@@ -279,6 +307,40 @@ I am currently a Ph.D. student (Sep. 2024 - Jun. 2028, expected) in the School o
     </div>
     <div style="color: #666; font-size: 0.95rem;">
       2023
+    </div>
+  </div>
+</div>
+<div style="margin-top: 0.8rem; margin-bottom: 2.2rem;">
+  <div style="padding: 1rem 1.2rem; border-left: 4px solid #4f8cff; background: #f8fafc; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.04);">
+    <div style="font-weight: 600; font-size: 1.02rem; margin-bottom: 0.25rem;">
+      Scholarship of Suzhou Industrial Park
+    </div>
+    <div style="color: #666; font-size: 0.95rem;">
+      2022
+    </div>
+  </div>
+</div>
+
+
+<div style="margin-top: 0.8rem; margin-bottom: 2.2rem;">
+  <div style="padding: 1rem 1.2rem; border-left: 4px solid #4f8cff; background: #f8fafc; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.04);">
+    <div style="font-weight: 600; font-size: 1.02rem; margin-bottom: 0.25rem;">
+      Merit Master Student
+    </div>
+    <div style="color: #666; font-size: 0.95rem;">
+      2022
+    </div>
+  </div>
+</div>
+
+
+<div style="margin-top: 0.8rem; margin-bottom: 2.2rem;">
+  <div style="padding: 1rem 1.2rem; border-left: 4px solid #4f8cff; background: #f8fafc; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.04);">
+    <div style="font-weight: 600; font-size: 1.02rem; margin-bottom: 0.25rem;">
+      Merit Bachelor Student
+    </div>
+    <div style="color: #666; font-size: 0.95rem;">
+      2018, 2019
     </div>
   </div>
 </div>
@@ -297,4 +359,4 @@ I am currently a Ph.D. student (Sep. 2024 - Jun. 2028, expected) in the School o
     <span style="padding: 0.35rem 0.75rem; background: #f3f6fb; border: 1px solid #e3e8f0; border-radius: 999px;">ICML</span>
     <span style="padding: 0.35rem 0.75rem; background: #f3f6fb; border: 1px solid #e3e8f0; border-radius: 999px;">IEEE T-CSVT</span>
   </div>
-</div>
+
